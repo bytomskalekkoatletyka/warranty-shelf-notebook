@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Warranty Shelf Notebook</string>
+
+    <string name="splash_title_top">WARRANTY</string>
+    <string name="splash_title_bottom">SHELF</string>
+    <string name="splash_subtitle">EVERY RECEIPT ON ONE SHELF</string>
+    <string name="splash_loading">LOADING</string>
+
+    <string name="menu_brand">WARRANTY SHELF</string>
+    <string name="menu_hero_top">MY</string>
+    <string name="menu_hero_bottom">SHELF</string>
+    <string name="menu_tagline">RECEIPTS, DATES AND REPAIRS IN ONE PLACE</string>
+    <string name="menu_hint">ONE PASS ACROSS THE SHELF</string>
+
+    <string name="cta_start">START SHELF</string>
+    <string name="cta_open_shelf">OPEN SHELF</string>
+    <string name="cta_search">SEARCH</string>
+    <string name="cta_close_search">CLOSE SEARCH</string>
+    <string name="cta_keep">KEEP ON SHELF</string>
+    <string name="cta_log_repair">LOG REPAIR</string>
+    <string name="cta_retire">RETIRE</string>
+    <string name="cta_finish">FINISH REVIEW</string>
+    <string name="cta_review_again">REVIEW AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_add_item">ADD ITEM</string>
+    <string name="cta_add_repair">ADD REPAIR</string>
+    <string name="cta_save">SAVE</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_resume">RESUME</string>
+
+    <string name="search_hint">SEARCH THE SHELF</string>
+    <string name="search_empty">NO FOLDERS MATCH</string>
+
+    <string name="game_title">SHELF REVIEW</string>
+    <string name="step_counter">%1$d / %2$d</string>
+    <string name="days_left">%1$d DAYS</string>
+    <string name="months_value">%1$d M</string>
+    <string name="tab_expired">EXPIRED</string>
+    <string name="tab_ending">ENDING SOON</string>
+
+    <string name="label_items">ITEMS</string>
+    <string name="label_repairs">REPAIRS</string>
+    <string name="label_repairs_logged">REPAIRS LOGGED</string>
+    <string name="label_kept">KEPT</string>
+    <string name="label_retired">RETIRED</string>
+    <string name="label_covered">COVERED</string>
+    <string name="label_ending_soon">ENDING SOON</string>
+    <string name="label_acquired">ACQUIRED</string>
+    <string name="label_cover_ends">COVER ENDS</string>
+    <string name="label_serial">SERIAL NOTE</string>
+    <string name="label_room">ROOM</string>
+    <string name="label_warranty">WARRANTY MONTHS</string>
+
+    <string name="section_documents">DOCUMENTS</string>
+    <string name="section_repairs">REPAIR HISTORY</string>
+    <string name="no_repairs">NO REPAIRS LOGGED YET</string>
+    <string name="empty_shelf">SHELF IS EMPTY</string>
+    <string name="empty_shelf_hint">ADD AN ITEM TO START A REVIEW</string>
+
+    <string name="result_title">REVIEW COMPLETE</string>
+    <string name="result_subtitle">YOUR SHELF IS UP TO DATE</string>
+    <string name="result_hint">CHECK COVER DATES WITHIN 90 DAYS</string>
+    <string name="result_single">%1$d FOLDERS ON THE SHELF</string>
+    <string name="result_footer">EVERY CHANGE IS SAVED ON THIS DEVICE</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_accent">THEME ACCENT</string>
+    <string name="settings_currency">CURRENCY</string>
+    <string name="settings_date">DATE FORMAT</string>
+    <string name="settings_note">SETTINGS ARE STORED ON THIS DEVICE ONLY</string>
+    <string name="chip_petrol">PETROL</string>
+    <string name="chip_orange">ORANGE</string>
+    <string name="chip_date_dots">DD.MM.YYYY</string>
+    <string name="chip_date_iso">YYYY-MM-DD</string>
+
+    <string name="dialog_pause_title">REVIEW PAUSED</string>
+    <string name="dialog_pause_body">Resume the shelf review or go back to the menu.</string>
+    <string name="dialog_retire_title">RETIRE THIS ITEM</string>
+    <string name="dialog_retire_body">%1$s moves to the archive and leaves the active shelf.</string>
+    <string name="dialog_repair_title">LOG A REPAIR</string>
+    <string name="dialog_add_title">ADD AN ITEM</string>
+    <string name="field_note">REPAIR NOTE</string>
+    <string name="field_cost">COST</string>
+    <string name="field_name">ITEM NAME</string>
+    <string name="field_room">ROOM</string>
+    <string name="field_warranty">WARRANTY LENGTH</string>
+
+    <string name="cd_logo">Warranty Shelf emblem</string>
+    <string name="cd_shelf_icon">Shelf home icon</string>
+    <string name="cd_pause">Pause the review</string>
+    <string name="cd_document">Receipt and manual thumbnails</string>
+    <string name="cd_empty_shelf">Empty shelf illustration</string>
+    <string name="cd_empty_repairs">No repairs illustration</string>
+    <string name="cd_back_menu">Back</string>
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_add_item">Add an item</string>
+    <string name="cd_coverage_band">%1$d warranties ending within 90 days</string>
+    <string name="cd_folder_tab">%1$d days of cover left</string>
+    <string name="cd_chip_selected">Selected</string>
+    <string name="cd_chip_idle">Not selected</string>
+</resources>
